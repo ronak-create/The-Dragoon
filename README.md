@@ -1,4 +1,5 @@
-<img src="./dragoon logo" alt="Logo" width="300"/> 
+<img src="./dragoon logo.png" alt="Logo" width="100"/> 
+
 # The Dragoon Js
 
 This is a simple NASM based JS compiler, written in C by Ronak Parmar.
